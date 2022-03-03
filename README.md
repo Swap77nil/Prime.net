@@ -143,3 +143,5 @@ public class Reverse<br>
 }<br>
 
 OUTPUT:<br>
+![Screenshot 2022-03-03 113032](https://user-images.githubusercontent.com/98145032/156505670-e58df890-a97d-46f5-b77d-0c51ce4c8496.png)
+
