@@ -119,7 +119,7 @@ public class Sum<br>
         }<br>
     }<br>
     
-    OUTPUT:<br>
+ OUTPUT:<br>
 ![image](https://user-images.githubusercontent.com/98145365/155669009-93e4d0fd-7f15-4649-a6ab-94ccbb00454a.png)<br>
 
 
